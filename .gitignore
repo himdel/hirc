@@ -3,3 +3,4 @@
 bower_components/
 node_modules/
 index.html
+config.local.js
